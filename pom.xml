@@ -79,6 +79,12 @@
             <version>2.3.0</version>
         </dependency>
 
+        <!-- Actuator - health check for Railway -->
+        <dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter-actuator</artifactId>
+        </dependency>
+
         <!-- Lombok -->
         <dependency>
             <groupId>org.projectlombok</groupId>
